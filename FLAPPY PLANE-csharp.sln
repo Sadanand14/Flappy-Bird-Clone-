@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3BEEED81-81CA-A213-7D29-0960EAB8DF42}") = "FLAPPY PLANE", "Assembly-CSharp-vs.csproj", "{EF966653-46E3-FA32-511D-3BFB0B153D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF966653-46E3-FA32-511D-3BFB0B153D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF966653-46E3-FA32-511D-3BFB0B153D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF966653-46E3-FA32-511D-3BFB0B153D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF966653-46E3-FA32-511D-3BFB0B153D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal
